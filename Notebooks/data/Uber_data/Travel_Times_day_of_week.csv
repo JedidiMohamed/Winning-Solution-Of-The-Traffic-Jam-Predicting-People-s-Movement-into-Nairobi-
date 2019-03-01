@@ -1,0 +1,8 @@
+"Day Of Week","Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"Monday","376","Kawangware, Nairobi","192","Afya Centre, Nairobi","1/1/2018 - 3/31/2018, Daily Average",2429,1449,4074
+"Tuesday","376","Kawangware, Nairobi","192","Afya Centre, Nairobi","1/1/2018 - 3/31/2018, Daily Average",2514,1554,4066
+"Wednesday","376","Kawangware, Nairobi","192","Afya Centre, Nairobi","1/1/2018 - 3/31/2018, Daily Average",2283,1469,3549
+"Thursday","376","Kawangware, Nairobi","192","Afya Centre, Nairobi","1/1/2018 - 3/31/2018, Daily Average",2699,1677,4345
+"Friday","376","Kawangware, Nairobi","192","Afya Centre, Nairobi","1/1/2018 - 3/31/2018, Daily Average",2319,1405,3826
+"Saturday","376","Kawangware, Nairobi","192","Afya Centre, Nairobi","1/1/2018 - 3/31/2018, Daily Average",1948,1348,2816
+"Sunday","376","Kawangware, Nairobi","192","Afya Centre, Nairobi","1/1/2018 - 3/31/2018, Daily Average",1708,1200,2432

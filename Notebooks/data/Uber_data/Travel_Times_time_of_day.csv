@@ -1,0 +1,7 @@
+"Time Of Day","Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"Daily Average","376","Kawangware, Nairobi","192","Afya Centre, Nairobi","1/1/2018 - 3/31/2018, Every day",,,
+"AM Peak","376","Kawangware, Nairobi","192","Afya Centre, Nairobi","1/1/2018 - 3/31/2018, Every day",2852,1799,4521
+"Midday","376","Kawangware, Nairobi","192","Afya Centre, Nairobi","1/1/2018 - 3/31/2018, Every day",2434,1735,3416
+"PM Peak","376","Kawangware, Nairobi","192","Afya Centre, Nairobi","1/1/2018 - 3/31/2018, Every day",2859,1826,4475
+"Evening","376","Kawangware, Nairobi","192","Afya Centre, Nairobi","1/1/2018 - 3/31/2018, Every day",1712,1183,2476
+"Early Morning","376","Kawangware, Nairobi","192","Afya Centre, Nairobi","1/1/2018 - 3/31/2018, Every day",1785,1125,2830
